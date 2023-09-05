@@ -1,2 +1,2 @@
-# repositoriohenry
+# prepcourse-henry
 carpeta henry
